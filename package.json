@@ -1,0 +1,19 @@
+{
+  "name": "git-sample",
+  "version": "1.0.0",
+  "description": "Git kullanımıyla ilgili örnek proje",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yusufborucu/git-sample.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yusufborucu/git-sample/issues"
+  },
+  "homepage": "https://github.com/yusufborucu/git-sample#readme"
+}
